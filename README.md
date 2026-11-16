@@ -57,4 +57,4 @@ SuitCase-PC/
 
 ---
 
-<p align="center">Projeto desenvolvido para a <b>ExpoTech</b> • Computer Architecture and Organization</p>
+<p align="center">Projeto desenvolvido para a <b>ExpoTech</b>

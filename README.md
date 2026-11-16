@@ -3,7 +3,6 @@
 > Um computador completo e funcional montado dentro de uma mala — projeto desenvolvido para a **ExpoTech**.
 
 ![Status](https://img.shields.io/badge/status-concluído-success)
-![Disciplina](https://img.shields.io/badge/disciplina-Computer%20Architecture%20and%20Organization-1F3A5F)
 ![SO](https://img.shields.io/badge/SO-Windows%2010%20Pro-0078D6)
 
 ---

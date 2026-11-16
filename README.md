@@ -20,7 +20,7 @@ O **SuitCase PC** é um computador montado dentro de uma mala. Usamos o espaço 
 | Armazenamento | HD de 500 GB |
 | Sistema operacional | Windows 10 Pro |
 
-Detalhes completos em [`hardware/especificacoes.md`](hardware/especificacoes.md).
+Detalhes completos em [`especificacoes.md`](especificacoes.md).
 
 ## 🔧 Destaques da montagem
 

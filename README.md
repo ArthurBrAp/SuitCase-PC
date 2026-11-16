@@ -43,9 +43,7 @@ SuitCase-PC/
 ```
 
 ## 📄 Relatório
-
-- 📕 [Relatório em PDF](docs/Relatorio_SuitCase_PC.pdf)
-- 📝 [Relatório em Markdown](docs/relatorio.md)
+- 📝 [Relatório em Markdown](relatorio.md)
 
 ## 👥 Integrantes
 
